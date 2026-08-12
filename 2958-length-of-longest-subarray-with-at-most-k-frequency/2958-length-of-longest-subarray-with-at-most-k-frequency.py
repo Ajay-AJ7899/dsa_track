@@ -9,5 +9,5 @@ class Solution:
             while freq[nums[right]]>k:
                 freq[nums[left]]-=1
                 left +=1
-            maxi = max(maxi,right-left+1)
+            maxi = max(maxi,right-left+1) #return length of subarray
         return maxi
