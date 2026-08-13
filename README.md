@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0238-product-of-array-except-self) |
+| [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -116,4 +117,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
+## Longest Increasing Subsequence
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
