@@ -89,10 +89,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Sliding Window
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -101,6 +103,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
 |  |
 | ------- |
