@@ -112,6 +112,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
+| [1768-merge-strings-alternately](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
@@ -128,6 +129,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1768-merge-strings-alternately](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1768-merge-strings-alternately) |
 ## Sorting
 |  |
 | ------- |
