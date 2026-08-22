@@ -161,6 +161,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2029-stone-game-ix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 ## Minimax
 |  |
 | ------- |
