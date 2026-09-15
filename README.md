@@ -131,6 +131,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1768-merge-strings-alternately](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -150,6 +151,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1768-merge-strings-alternately) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Sorting
 |  |
@@ -163,6 +165,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2029-stone-game-ix) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Longest Increasing Subsequence
 |  |
@@ -239,6 +242,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1872-stone-game-viii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1872-stone-game-viii) |
+| [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 ## Enumeration
 |  |
 | ------- |
