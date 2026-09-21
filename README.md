@@ -95,6 +95,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3875-construct-uniform-parity-array-i) |
@@ -192,6 +193,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1927-sum-game](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3871-count-commas-in-range-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3875-construct-uniform-parity-array-i) |
@@ -254,6 +256,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1872-stone-game-viii) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
+| [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
 ## Enumeration
 |  |
 | ------- |
