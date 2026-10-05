@@ -138,6 +138,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
+| [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
@@ -179,6 +180,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
+| [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2029-stone-game-ix) |
@@ -265,6 +267,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Dynamic Programming
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1872-stone-game-viii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1872-stone-game-viii) |
@@ -324,6 +327,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -331,6 +335,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
