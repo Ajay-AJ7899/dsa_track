@@ -137,6 +137,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -302,6 +303,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -327,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Backtracking
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 ## Stack
 |  |
