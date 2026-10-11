@@ -93,6 +93,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -288,6 +289,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Enumeration
 |  |
 | ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Union-Find
