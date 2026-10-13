@@ -309,6 +309,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0701-insert-into-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -329,6 +330,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0543-diameter-of-binary-tree) |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0701-insert-into-a-binary-search-tree) |
 ## DP on Trees
 |  |
 | ------- |
@@ -368,4 +370,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0701-insert-into-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0701-insert-into-a-binary-search-tree) |
 <!---LeetCode Topics End-->
