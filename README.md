@@ -96,6 +96,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -119,6 +120,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -167,6 +169,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Ordered Set
 |  |
 | ------- |
@@ -401,4 +404,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
