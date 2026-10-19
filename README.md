@@ -118,6 +118,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Hash Table
 |  |
 | ------- |
+| [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 | [1207-unique-number-of-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1207-unique-number-of-occurrences) |
@@ -154,6 +155,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
+| [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
@@ -353,6 +355,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
@@ -452,4 +455,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
