@@ -86,6 +86,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1207-unique-number-of-occurrences) |
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -317,6 +318,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -346,6 +348,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
+| [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -355,6 +358,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 ## Binary Tree
 |  |
@@ -383,6 +387,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
+| [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
