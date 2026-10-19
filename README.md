@@ -80,6 +80,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0238-product-of-array-except-self](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
+| [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
@@ -296,6 +297,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -346,6 +348,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
+| [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
@@ -371,6 +374,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Matrix
 |  |
 | ------- |
+| [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
