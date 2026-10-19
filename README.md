@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
@@ -323,6 +324,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -349,6 +351,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0110-balanced-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0110-balanced-binary-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0543-diameter-of-binary-tree) |
@@ -360,6 +363,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0104-maximum-depth-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
@@ -389,6 +393,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
+| [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
