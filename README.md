@@ -325,6 +325,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -356,6 +357,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0543-diameter-of-binary-tree) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 ## Breadth-First Search
 |  |
@@ -367,6 +369,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
@@ -467,4 +470,16 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
+## Graph Theory
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
+## Graph Coloring
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
+## Bipartite Graph
+|  |
+| ------- |
+| [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 <!---LeetCode Topics End-->
