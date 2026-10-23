@@ -291,6 +291,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
+| [0374-guess-number-higher-or-lower](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0374-guess-number-higher-or-lower) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2089-find-target-indices-after-sorting-array) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -516,4 +517,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0802-find-eventual-safe-states) |
+## Interactive
+|  |
+| ------- |
+| [0374-guess-number-higher-or-lower](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0374-guess-number-higher-or-lower) |
 <!---LeetCode Topics End-->
