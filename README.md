@@ -163,6 +163,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
+| [0796-rotate-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1021-remove-outermost-parentheses) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
@@ -523,4 +524,8 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0374-guess-number-higher-or-lower) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
