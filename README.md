@@ -159,6 +159,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0020-valid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0020-valid-parentheses) |
 | [0127-word-ladder](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0127-word-ladder) |
+| [0151-reverse-words-in-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0151-reverse-words-in-a-string) |
 | [0301-remove-invalid-parentheses](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0301-remove-invalid-parentheses) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
@@ -191,6 +192,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
+| [0151-reverse-words-in-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1768-merge-strings-alternately) |
