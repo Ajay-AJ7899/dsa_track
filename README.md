@@ -89,6 +89,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1207-unique-number-of-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1207-unique-number-of-occurrences) |
+| [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -335,6 +336,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 ## Tree
@@ -371,6 +373,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0785-is-graph-bipartite](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -388,6 +391,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
+| [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 ## Binary Tree
 |  |
 | ------- |
@@ -418,6 +422,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0835-image-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0835-image-overlap) |
 | [0994-rotting-oranges](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
+| [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 ## Geometry
 |  |
