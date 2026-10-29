@@ -117,6 +117,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3875-construct-uniform-parity-array-i) |
 | [3886-sum-of-sortable-integers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3903-smallest-stable-index-i) |
@@ -182,11 +183,13 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3498-reverse-degree-of-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3498-reverse-degree-of-a-string) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Segment Tree
 |  |
 | ------- |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Ordered Set
 |  |
 | ------- |
@@ -236,6 +239,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Math
 |  |
 | ------- |
@@ -356,6 +360,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0700-search-in-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -377,6 +382,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1020-number-of-enclaves](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1020-number-of-enclaves) |
 | [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -481,10 +487,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
 ## Memoization
 |  |
 | ------- |
