@@ -116,6 +116,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3665-twisted-mirror-path-count) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3841-palindromic-path-queries-in-a-tree](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3841-palindromic-path-queries-in-a-tree) |
@@ -328,6 +329,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
+| [3665-twisted-mirror-path-count](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3665-twisted-mirror-path-count) |
 ## Enumeration
 |  |
 | ------- |
@@ -438,6 +440,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3665-twisted-mirror-path-count](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3665-twisted-mirror-path-count) |
 ## Geometry
 |  |
 | ------- |
