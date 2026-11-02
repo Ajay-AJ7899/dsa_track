@@ -82,6 +82,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0238-product-of-array-except-self](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0238-product-of-array-except-self) |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
 | [0724-find-pivot-index](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0733-flood-fill) |
@@ -212,6 +213,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -250,6 +252,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
