@@ -78,6 +78,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
 | [0198-house-robber](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
@@ -342,6 +343,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0062-unique-paths](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0062-unique-paths) |
 | [0063-unique-paths-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0064-minimum-path-sum) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0198-house-robber) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
@@ -454,6 +456,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0063-unique-paths-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0063-unique-paths-ii) |
+| [0064-minimum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0542-01-matrix) |
