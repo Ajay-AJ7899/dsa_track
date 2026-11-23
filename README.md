@@ -97,6 +97,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1091-shortest-path-in-binary-matrix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1207-unique-number-of-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1207-unique-number-of-occurrences) |
 | [1254-number-of-closed-islands](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1254-number-of-closed-islands) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1352-product-of-the-last-k-numbers) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -176,6 +177,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0238-product-of-array-except-self) |
 | [0724-find-pivot-index](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0724-find-pivot-index) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [1732-find-the-highest-altitude](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1732-find-the-highest-altitude) |
@@ -284,6 +286,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0836-rectangle-overlap) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -624,4 +627,12 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
