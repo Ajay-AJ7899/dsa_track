@@ -126,6 +126,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3331-find-subtree-sizes-after-changes](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
@@ -171,6 +172,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3364-minimum-positive-sum-subarray) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Prefix Sum
 |  |
@@ -294,6 +296,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1927-sum-game](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2029-stone-game-ix) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -361,6 +364,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -387,6 +391,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 | [3886-sum-of-sortable-integers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3886-sum-of-sortable-integers) |
