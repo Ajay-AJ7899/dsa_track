@@ -77,6 +77,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0064-minimum-path-sum) |
@@ -232,6 +233,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0011-container-with-most-water) |
+| [0015-3sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0015-3sum) |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
@@ -243,6 +245,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0015-3sum) |
 | [0268-missing-number](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0268-missing-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1096-brace-expansion-ii) |
