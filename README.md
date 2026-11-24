@@ -76,6 +76,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0063-unique-paths-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0064-minimum-path-sum) |
@@ -230,6 +231,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0027-remove-element) |
 | [0151-reverse-words-in-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0443-string-compression) |
@@ -255,6 +257,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0011-container-with-most-water) |
 | [0334-increasing-triplet-subsequence](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0334-increasing-triplet-subsequence) |
 | [0678-valid-parenthesis-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1386-cinema-seat-allocation) |
