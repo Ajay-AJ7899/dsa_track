@@ -107,6 +107,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+| [1652-defuse-the-bomb](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1732-find-the-highest-altitude) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -171,6 +172,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 |  |
 | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1652-defuse-the-bomb](https://github.com/Ajay-AJ7899/dsa_track/tree/master/1652-defuse-the-bomb) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3090-maximum-length-substring-with-two-occurrences) |
