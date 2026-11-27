@@ -145,6 +145,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3886-sum-of-sortable-integers](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3886-sum-of-sortable-integers) |
 | [3903-smallest-stable-index-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3903-smallest-stable-index-i) |
 | [3925-concatenate-array-with-reverse](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3925-concatenate-array-with-reverse) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -272,6 +273,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [2706-buy-two-chocolates](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2706-buy-two-chocolates) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/Ajay-AJ7899/dsa_track/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Longest Increasing Subsequence
 |  |
 | ------- |
@@ -395,6 +397,7 @@ Manage your sync preferences at [neetcode.io/profile/github](https://neetcode.io
 | [3524-find-x-value-of-array-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3665-twisted-mirror-path-count) |
 | [3693-climbing-stairs-ii](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3693-climbing-stairs-ii) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Ajay-AJ7899/dsa_track/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Enumeration
 |  |
 | ------- |
